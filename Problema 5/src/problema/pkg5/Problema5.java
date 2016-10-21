@@ -37,10 +37,10 @@ public class Problema5 {
     }
     }
     public static void mostrarPrimo(){
-        System.out.println("El numero" + a + " es primo");    
+        System.out.println("El numero a es primo");    
     }
     public static void mostrarOtro(){
-        System.out.println("El numero" + a + " no es primo");
+        System.out.println("El numero a no es primo");
     }
 }
 
